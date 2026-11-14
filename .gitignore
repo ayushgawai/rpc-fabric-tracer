@@ -1,0 +1,8 @@
+build/
+*.log
+prompt.txt
+.venv/
+__pycache__/
+*.pcap
+!tests/*.py
+.DS_Store
